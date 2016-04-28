@@ -5,4 +5,4 @@ Learning how to use Git!
 - **Who's there?**
 - A broken pencil
 - **A broken pencil who?**
-Ah fuggedabout it. It's pointless.
+- Ah fuggedabout it. It's pointless.
